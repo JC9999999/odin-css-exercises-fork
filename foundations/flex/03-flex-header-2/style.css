@@ -16,7 +16,8 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.left-items, .right-items{
+.left-items, 
+.right-items{
   border: black;
   display: flex;
   gap: 10px;

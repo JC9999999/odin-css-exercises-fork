@@ -8,8 +8,38 @@ img {
 }
 
 .title {
+  display: flex;
   font-size: 36px;
   font-weight: 900;
+}
+.header{
+  border: white;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+.items{
+  outline: 2px solid red;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.text{
+  outline: 2px solid purple;
+  max-width: 200px;
+  text-align: center;
+}
+.images{
+  outline: 2px solid blue;
+  text-align: center;
+}
+.title{
+  display: flex;
+  outline: 2px solid pink;
+  justify-content: center;
 }
 
 /* do not edit this footer */
