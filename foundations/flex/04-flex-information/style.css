@@ -32,7 +32,7 @@ img {
   max-width: 200px;
   text-align: center;
 }
-.images{
+.images{/*Multiple div flex containers for centering the texts and images*/
   outline: 2px solid blue;
   text-align: center;
 }
