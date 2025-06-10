@@ -55,6 +55,7 @@ body {
   margin-top: auto;
 }
 .input-text-buttons{
+  /* Parent container for centering image, user input and buttons */
   display: flex;
   flex-direction: column;
   justify-content: center;
