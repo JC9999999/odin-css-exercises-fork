@@ -55,12 +55,15 @@ body {
   margin-top: auto;
 }
 .input-text-buttons{
-  /* Parent container for centering image, user input and buttons */
+  /* Parent container for centering user input and buttons */
   display: flex;
   flex-direction: column;
   justify-content: center;
   justify-content: space-between;
   align-items: center;
   gap: 8px 16px;
-
+}
+a{
+  color: inherit;
+  text-decoration: none;
 }
